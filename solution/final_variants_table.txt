@@ -1,0 +1,7 @@
+CHROM  POS       ID  REF        ALT  GEN[0].GT  GEN[1].GT  ANN[*].GENE                    ANN[*].EFFECT
+chr22  19766752  .   CCG        C    0|1        0/0        TBX1,TBX1,TBX1                 frameshift_variant,intron_variant,intron_variant
+chr22  19766787  .   GC         *,G  1|2        ./.        TBX1,TBX1,TBX1                 frameshift_variant,intron_variant,intron_variant
+chr22  19766790  .   GCAGCTGCC  *,G  1|2        ./.        TBX1,TBX1,TBX1                 frameshift_variant,intron_variant,intron_variant
+chr22  20988842  .   G          A    0/1        0/0        LZTR1                          stop_gained
+chr22  28725272  .   A          AGG  0/1        0/0        CHEK2,CHEK2,CHEK2,CHEK2,CHEK2  frameshift_variant,frameshift_variant,frameshift_variant,frameshift_variant,5_prime_UTR_variant
+chr22  28725275  .   TTC        T    0|1        0/0        CHEK2,CHEK2,CHEK2,CHEK2,CHEK2  frameshift_variant,frameshift_variant,frameshift_variant,frameshift_variant,5_prime_UTR_variant
