@@ -1,5 +1,5 @@
-# Dataset tutoring 1 --- VARIANT CALLING ---
+# Dataset tutoring 1 - Variant Calling
 
-Raw data and solutions for the tutoring part of the course in Bioinformatics within the M.Sc. Biologia Sperimentale e Applicata
+Raw data and solutions for the first tutoring session of the Bioinformatics course within the M.Sc. Biologia Sperimentale e Applicata. The session focuses on the variant calling analysis workflow.
 
 
