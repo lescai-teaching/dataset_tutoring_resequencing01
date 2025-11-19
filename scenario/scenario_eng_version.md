@@ -15,9 +15,9 @@
 *   **General:** Alert, cooperative, but appears fatigued.
 *   **Head and Neck:** Noticeable facial asymmetry, with flattening of the left cheek. Palpable, firm, non-tender mass measuring approximately 2 cm x 1.5 cm in the left posterior triangle of the neck. No cervical lymphadenopathy elsewhere. Ears: Bilateral sensorineural hearing loss confirmed through audiometry. Cranial nerve examination reveals subtle weakness in the muscles of facial expression on the left side (CN VII).
 *   **Neurological:** Gross motor and sensory functions are intact. Reflexes are normal.
-*   **Cardiovascular:** Normal heart sounds, no murmurs.
+*   **Cardiovascular:** Normal heart sounds.
 *   **Respiratory:** Clear to auscultation bilaterally.
-*   **Skin:** No café-au-lait spots or other cutaneous abnormalities.
+*   **Skin:** No spots or other cutaneous abnormalities.
 
 **Initial Investigations:**
 
