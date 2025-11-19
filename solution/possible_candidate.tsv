@@ -1,0 +1,8 @@
+CHROM  POS       ID  REF        ALT  GEN[*].GT  ANN[0].GENE  ANN[0].EFFECT  GNOMAD  CLINVAR
+chr22  17598193  .   C          G    0/1,0/0    ATP6V1E1     splice_donor_variant&intron_variant    NotConstraint,0.85  ND
+chr22  19766752  .   CCG        C    0|1,0/0    TBX1         frameshift_variant NotConstraint,0.70  VUS
+chr22  19766787  .   GC         *,G  1|2,./.    TBX1         frameshift_variant NotConstraint,0.70  ND
+chr22  19766790  .   GCAGCTGCC  *,G  1|2,./.    TBX1         frameshift_variant NotConstraint,0.70  ND
+chr22  20988842  .   G          A    0/1,0/0    LZTR1        stop_gained    NotConstraint,2.00  Pathogenic,Hereditary_cancer_predisposing_syndrome
+chr22  28725272  .   A          AGG  0/1,0/0    CHEK2        frameshift_variant NotConstraint,1.40  ND
+chr22  28725275  .   TTC        T    0|1,0/0    CHEK2        frameshift_variant NotConstraint,1.40  ND
